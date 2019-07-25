@@ -1,0 +1,7 @@
+H:\Projects\github\msmq_example\src\ConsoleSender\bin\Debug\ConsoleSender.exe.config
+H:\Projects\github\msmq_example\src\ConsoleSender\bin\Debug\ConsoleSender.exe
+H:\Projects\github\msmq_example\src\ConsoleSender\bin\Debug\ConsoleSender.pdb
+H:\Projects\github\msmq_example\src\ConsoleSender\obj\Debug\ConsoleSender.csprojAssemblyReference.cache
+H:\Projects\github\msmq_example\src\ConsoleSender\obj\Debug\ConsoleSender.csproj.CoreCompileInputs.cache
+H:\Projects\github\msmq_example\src\ConsoleSender\obj\Debug\ConsoleSender.exe
+H:\Projects\github\msmq_example\src\ConsoleSender\obj\Debug\ConsoleSender.pdb

@@ -1,0 +1,7 @@
+H:\Projects\github\msmq_example\src\ConsoleReceiver\bin\Debug\ConsoleReceiver.exe.config
+H:\Projects\github\msmq_example\src\ConsoleReceiver\bin\Debug\ConsoleReceiver.exe
+H:\Projects\github\msmq_example\src\ConsoleReceiver\bin\Debug\ConsoleReceiver.pdb
+H:\Projects\github\msmq_example\src\ConsoleReceiver\obj\Debug\ConsoleReceiver.csprojAssemblyReference.cache
+H:\Projects\github\msmq_example\src\ConsoleReceiver\obj\Debug\ConsoleReceiver.csproj.CoreCompileInputs.cache
+H:\Projects\github\msmq_example\src\ConsoleReceiver\obj\Debug\ConsoleReceiver.exe
+H:\Projects\github\msmq_example\src\ConsoleReceiver\obj\Debug\ConsoleReceiver.pdb
